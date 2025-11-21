@@ -1,4 +1,4 @@
-#!/home/ai/Documents/Simbu/fastapi/fastapi-env/bin/python
+#!/home/ai/Documents/Simbu/FastAPI/fastapi-env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
